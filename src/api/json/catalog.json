@@ -7077,6 +7077,12 @@
         "**/.waku.json"
       ],
       "url": "https://waku.ngjx.org/static/schema.json"
+    },
+    {
+      "name": "pack.toml (packwiz)",
+      "description": "The main modpack file for a packwiz modpack",
+      "fileMatch": ["**/pack.toml"],
+      "url": "https://json.schemastore.org/packwiz-pack.json"
     }
   ]
 }

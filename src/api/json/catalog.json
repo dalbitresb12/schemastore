@@ -7079,12 +7079,6 @@
       "url": "https://waku.ngjx.org/static/schema.json"
     },
     {
-      "name": "pack.toml (packwiz)",
-      "description": "The main modpack file for a packwiz modpack",
-      "fileMatch": ["**/pack.toml"],
-      "url": "https://json.schemastore.org/packwiz-pack.json"
-    },
-    {
       "name": "index.toml (packwiz)",
       "description": "The index file of the modpack, storing references to every file to be downloaded in the pack",
       "fileMatch": ["**/index.toml"],
@@ -7095,6 +7089,12 @@
       "description": "",
       "fileMatch": ["**/*.pw.toml"],
       "url": "https://json.schemastore.org/packwiz-mod.json"
+    },
+    {
+      "name": "pack.toml (packwiz)",
+      "description": "The main modpack file for a packwiz modpack",
+      "fileMatch": ["**/pack.toml"],
+      "url": "https://json.schemastore.org/packwiz-pack.json"
     }
   ]
 }

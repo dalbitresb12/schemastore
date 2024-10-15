@@ -877,6 +877,9 @@
     "packwiz-pack.json": {
       "unknownKeywords": ["x-taplo", "x-taplo-info"]
     },
+    "packwiz-index.json": {
+      "unknownKeywords": ["x-taplo", "x-taplo-info"]
+    },
     "partial-mypy.json": {
       "unknownKeywords": ["markdownDescription", "x-intellij-html-description"]
     },
